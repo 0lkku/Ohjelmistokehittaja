@@ -1,0 +1,13 @@
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.exe
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.deps.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.runtimeconfig.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.runtimeconfig.dev.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\bin\Debug\netcoreapp3.1\EkaProjektini.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.csprojAssemblyReference.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.AssemblyInfo.cs
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\EkaProjektini\EkaProjektini\obj\Debug\netcoreapp3.1\EkaProjektini.genruntimeconfig.cache
