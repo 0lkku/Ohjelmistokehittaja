@@ -1,0 +1,4 @@
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\x ja y harjoituksia\tehtava7\tehtava7\obj\Debug\netcoreapp3.1\tehtava7.csprojAssemblyReference.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\x ja y harjoituksia\tehtava7\tehtava7\obj\Debug\netcoreapp3.1\tehtava7.csproj.CoreCompileInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\x ja y harjoituksia\tehtava7\tehtava7\obj\Debug\netcoreapp3.1\tehtava7.AssemblyInfoInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\x ja y harjoituksia\tehtava7\tehtava7\obj\Debug\netcoreapp3.1\tehtava7.AssemblyInfo.cs

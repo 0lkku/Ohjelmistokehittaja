@@ -1,0 +1,13 @@
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.csprojAssemblyReference.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.csproj.CoreCompileInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.AssemblyInfoInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.AssemblyInfo.cs
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.exe
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.deps.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.runtimeconfig.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.runtimeconfig.dev.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\bin\Debug\netcoreapp3.1\tehtava1.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava1\tehtava1\obj\Debug\netcoreapp3.1\tehtava1.genruntimeconfig.cache
