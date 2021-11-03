@@ -1,0 +1,12 @@
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.exe
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.deps.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.runtimeconfig.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.runtimeconfig.dev.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\bin\Debug\netcoreapp3.1\tehtava11.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.csproj.CoreCompileInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.AssemblyInfoInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.AssemblyInfo.cs
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\tehtava11\tehtava11\obj\Debug\netcoreapp3.1\tehtava11.genruntimeconfig.cache

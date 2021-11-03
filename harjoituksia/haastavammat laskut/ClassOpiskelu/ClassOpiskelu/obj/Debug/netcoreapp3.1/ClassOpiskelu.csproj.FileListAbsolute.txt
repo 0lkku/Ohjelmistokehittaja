@@ -1,0 +1,13 @@
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.csprojAssemblyReference.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.csproj.CoreCompileInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.AssemblyInfoInputs.cache
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.AssemblyInfo.cs
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.exe
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.deps.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.runtimeconfig.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.runtimeconfig.dev.json
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\bin\Debug\netcoreapp3.1\ClassOpiskelu.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.dll
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.pdb
+C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\harjoituksia\haastavammat laskut\ClassOpiskelu\ClassOpiskelu\obj\Debug\netcoreapp3.1\ClassOpiskelu.genruntimeconfig.cache
