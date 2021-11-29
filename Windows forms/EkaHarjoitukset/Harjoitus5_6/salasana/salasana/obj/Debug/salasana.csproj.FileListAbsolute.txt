@@ -8,13 +8,3 @@ C:\Users\Oliver\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\H
 C:\Users\Oliver\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.csproj.CoreCompileInputs.cache
 C:\Users\Oliver\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.exe
 C:\Users\Oliver\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.pdb
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\bin\Debug\salasana.exe.config
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\bin\Debug\salasana.exe
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\bin\Debug\salasana.pdb
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.csprojAssemblyReference.cache
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.SalasanaForm.resources
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.Properties.Resources.resources
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.csproj.GenerateResource.cache
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.csproj.CoreCompileInputs.cache
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.exe
-C:\Users\oliver.finnlund\source\repot\Ohjelmistokehittaja\Windows forms\EkaHarjoitukset\Harjoitus5_6\salasana\salasana\obj\Debug\salasana.pdb

@@ -1,0 +1,7 @@
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\obj\Debug\oliotehtava.csproj.AssemblyReference.cache
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\obj\Debug\oliotehtava.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\bin\Debug\oliotehtava.exe.config
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\bin\Debug\oliotehtava.exe
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\bin\Debug\oliotehtava.pdb
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\obj\Debug\oliotehtava.exe
+C:\Users\Oliver\source\repot\Ohjelmistokehittaja\palautettavatProjektit\oliotehtava\oliotehtava\oliotehtava\obj\Debug\oliotehtava.pdb
