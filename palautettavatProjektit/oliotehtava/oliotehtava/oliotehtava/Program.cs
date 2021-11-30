@@ -23,7 +23,7 @@ namespace oliotehtava
         {
         KYSY:
 
-            Console.WriteLine("Mitä haluat tehdä? Selata, Lainata, Palauttaa vai Poistua");
+            Console.WriteLine("Mitä haluat tehdä? Selata, Lainata, Palauttaa vai Poistua.");
             string teko = Console.ReadLine();
 
             switch (teko.ToLower())
@@ -34,7 +34,7 @@ namespace oliotehtava
 
 
                 case ("lainata"):
-                    Lainaa();
+                        Lainaa();
                     goto KYSY;
 
 
@@ -44,49 +44,62 @@ namespace oliotehtava
 
 
                 case ("poistua"):
-                        Console.Clear();
-                        Console.WriteLine("Nähdään uudestaan taas pian!");
+                        Environment.Exit(0);
                     break;
 
                 default:
-                    goto KYSY;
+                        Console.WriteLine("Voi olla että teit kirjoitus virheen");
+                        Console.WriteLine("");
+                        goto KYSY;
             }
 
             void Lainaa()
             {
+                Console.WriteLine("");
                 Console.WriteLine("Anna lainattavasi kirjan tunnus");
                 string laina = Console.ReadLine();
 
                 switch (laina)
                 {
                     case ("1"):
-                        kirja1.lainaustarkastus();
-                        break;
+                            Console.Clear();
+                            kirja1.lainaustarkastus();
+                            Console.WriteLine("");
+                            break;
 
                     case ("2"):
-                        kirja2.lainaustarkastus();
-                        break;
+                            Console.Clear();
+                            kirja2.lainaustarkastus();
+                            Console.WriteLine("");
+                            break;
 
                     case ("3"):
-                        kirja3.lainaustarkastus();
-                        break;
+                            Console.Clear();
+                            kirja3.lainaustarkastus();
+                            Console.WriteLine("");
+                            break;
 
                     case ("4"):
-                        kirja4.lainaustarkastus();
-                        break;
+                            Console.Clear();
+                            kirja4.lainaustarkastus();
+                            Console.WriteLine("");
+                            break;
 
 
 
                     default:
                         Console.WriteLine("Virheellinen tunnus");
-                        break;
+                            Console.WriteLine("");
+                            break;
                 }
-
+                    Kysynta();
             }
 
             void Selaa()
             {
-                string[] kirjaT1 = { kirja1.kNimet(), kirja1.kTekija(), kirja1.kSivut(), kirja1.kTunnukset(), "" };
+                    Console.Clear();
+
+                    string[] kirjaT1 = { kirja1.kNimet(), kirja1.kTekija(), kirja1.kSivut(), kirja1.kTunnukset(), "" };
                 string[] kirjaT2 = { kirja2.kNimet(), kirja2.kTekija(), kirja2.kSivut(), kirja2.kTunnukset(), "" };
                 string[] kirjaT3 = { kirja3.kNimet(), kirja3.kTekija(), kirja3.kSivut(), kirja3.kTunnukset(), "" };
                 string[] kirjaT4 = { kirja4.kNimet(), kirja4.kTekija(), kirja4.kSivut(), kirja4.kTunnukset(), "" };
@@ -110,33 +123,45 @@ namespace oliotehtava
                 {
                     Console.WriteLine(taul4);
                 }
-
-                Kysynta();
+                    
+                    Console.WriteLine("----------------------------");
+                    Console.WriteLine("");
+                    Kysynta();
             }
 
             void Palauta()
             {
-                Console.WriteLine("Syötä palautettavasi kirjan tunnus");
+                    Console.WriteLine("");
+                    Console.WriteLine("Syötä palautettavasi kirjan tunnus");
                 string tunnus = Console.ReadLine();
 
                 switch (tunnus)
                 {
                     case ("1"):
-                        kirja1.Palautus();
-                        break;
+                            Console.Clear();
+                            kirja1.Palautus();
+                            Console.WriteLine("");
+                            break;
                     case ("2"):
-                        kirja2.Palautus();
-                        break;
+                            Console.Clear();
+                            kirja2.Palautus();
+                            Console.WriteLine("");
+                            break;
                     case ("3"):
-                        kirja3.Palautus();
-                        break;
+                            Console.Clear();
+                            kirja3.Palautus();
+                            Console.WriteLine("");
+                            break;
                     case ("4"):
-                        kirja4.Palautus();
-                        break;
+                            Console.Clear();
+                            kirja4.Palautus();
+                            Console.WriteLine("");
+                            break;
 
                     default:
-                        Console.WriteLine("Virheellinen tunnus");
-                        break;
+                            Console.WriteLine("Virheellinen tunnus");
+                            Console.WriteLine("");
+                            break;
                 }
                 Kysynta();
             }
